@@ -1,4 +1,4 @@
-# Task 5 Web
+# Task 6 Web
 
 Решение выполнено на PHP без сторонних библиотек. Используются встроенные возможности `PDO`, `session`, `password_hash()` и Cookies.
 
