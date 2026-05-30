@@ -12,9 +12,9 @@ ini_set('default_socket_timeout', '5');
 
 const DB_HOST = 'localhost';
 const DB_PORT = '3306';
-const DB_NAME = 'u82295';
-const DB_USER = 'u82295';
-const DB_PASSWORD = '7819341';
+const DB_NAME = 'u82318';
+const DB_USER = 'u82318';
+const DB_PASSWORD = '5918027';
 
 const FLASH_ERRORS_COOKIE = 'task5_flash_errors';
 const FLASH_VALUES_COOKIE = 'task5_flash_values';
